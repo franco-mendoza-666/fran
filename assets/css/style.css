@@ -2,6 +2,32 @@
     background-color: black;
     width: 80%;
     margin: auto;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'aharoni', Courier,monospace;
+    color: red
+}
+.header{
+    width: 80%;
+    height: auto;
+    background-color: grey 
+}
+.menu{
+    width: 80%;
+    height: auto;
+    background-color: white
+}
+
+body{
+    background-color: white 
+}
+h3{
+    color:grey
+}
+h1{
+    color: white
+}
+H4{
+    color: darkslategray
+}
+p{
     color: white
 }
